@@ -1,6 +1,8 @@
 # manga
 Manga Reader Code
 
+<img src="http://2.bp.blogspot.com/-V_szxb_nOqE/VSm4RgrSEJI/AAAAAAAAN0s/DwMoq1LvbdY/s1600/banner_android.png">
+
 An online and offline Manga reading application for Android.
 
 This Android application allows users to browse a catalogue of mangas from various sources in a local SQLite database. From this activity, users can either read a chapter online or add it to queue for a later download. When reading a chapter, the user has various reading controls and image gestures. 
